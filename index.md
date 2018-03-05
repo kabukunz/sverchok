@@ -20,6 +20,7 @@
     SvIcosphereNode
     SvTorusNode
     SvSuzanneNode
+    SvMyFirstNode
     ---
     BasicSplineNode
     svBasicArcNode
@@ -279,7 +280,6 @@
     SvSubdivideLiteNode
     ---
     SvColorsInNodeMK1
-    SvColorInputNode
     SvColorsOutNodeMK1
     ---
     SvMatrixNormalNode
